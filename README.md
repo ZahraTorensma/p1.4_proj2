@@ -12,11 +12,11 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
 #### Milestones Fase 1
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
-| readme                         | DONE |  [readme.md]            | *MarkDown op github |
+| readme                         | DONE |  [readme.md]            | MarkDown op github |
 | b1-k1-w1 debriefing            | TODO | [Debriefing]            | Google Doc Comment enabled |
-| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
-| b1-k1-w2 Urenschatting         | DONE | [Urenschatting.md]| *Markdown |
-| b1-k1-w2 Planning              | DONE | [Planning.md]     | *Markdown |
+| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | Markdown |
+| b1-k1-w2 Urenschatting         | DONE | [Urenschatting.md]| Markdown |
+| b1-k1-w2 Planning              | DONE | [Planning.md]     | Markdown |
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | DONE | [Moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
@@ -27,9 +27,9 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
    [Leidraad_uitgangspunt.md]: <https://#>
    [Debriefing]: <https://#>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
-   [doc/1/urenschatting.md]: <https://github.com/ZahraTorensma/p1.4_proj2/master/Urenschatting.md>
-   [doc/1/planning.md]: <https://github.com/ZahraTorensma/p1.4_proj2/master/Planning.md>
-   [doc/1/moodboard]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/moodboard/MoodboardZAHRA_TORENSMA.png>
+   [Urenschatting.md]: <https://github.com/ZahraTorensma/p1.4_proj2/master/Urenschatting.md>
+   [Planning.md]: <https://github.com/ZahraTorensma/p1.4_proj2/master/Planning.md>
+   [Moodboard]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/moodboard/MoodboardZAHRA_TORENSMA.png>
    [FO]: <https://#>
    [Flow]: <https://#>
    [axShare]: <https://#>
