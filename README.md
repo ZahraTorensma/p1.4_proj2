@@ -1,4 +1,4 @@
-dat # p1.4_proj2
+# p1.4_proj2
 
 ## Yes Ve Gan!
 www.23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj is een website van ___Zahra Torensma___ waar gebruikers __informatie__ over veganisme en ook veganistische recepten kunnen vinden. Deze site is bedoeld voor mensen die meer __nieuwsgierig__ zijn naar veganisme, er meer over willen weten of zelfs wel eens een __veganistisch recept__ willen maken.
@@ -13,7 +13,7 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | MarkDown op github |
-| b1-k1-w1 debriefing            | TODO | [Debriefing]            | Google Doc Comment enabled |
+| b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
 | b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | Markdown |
 | b1-k1-w2 Urenschatting         | DONE | [Urenschatting.md]| Markdown |
 | b1-k1-w2 Planning              | DONE | [Planning.md]     | Markdown |
@@ -25,7 +25,7 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
 
    [readme.md]: <https://github.com/ZahraTorensma/p1.4_proj2/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://#>
-   [Debriefing]: <https://#>
+   [Debriefing]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/schriftelijkadvies.pdf>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
    [Urenschatting.md]: <https://github.com/ZahraTorensma/p1.4_proj2/blob/master/Urenschatting.md>
    [Planning.md]: <https://github.com/ZahraTorensma/p1.4_proj2/blob/master/Planning.md>
