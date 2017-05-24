@@ -20,7 +20,7 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | DONE | [Moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
-| b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
+| b1-k1-w2 FLowChart             | DONE | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | DONE | [axShare] *pw= leerlingnr.*         | Axshare link |
 
    [readme.md]: <https://github.com/ZahraTorensma/p1.4_proj2/master/readme.md>
@@ -31,7 +31,7 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
    [Planning.md]: <https://github.com/ZahraTorensma/p1.4_proj2/blob/master/Planning.md>
    [Moodboard]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/moodboard/MoodboardZAHRA_TORENSMA.png>
    [FO]: <https://#>
-   [Flow]: <https://#>
+   [Flow]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/flowChart.png>
    [axShare]: <http://u6duzw.axshare.com/#g=1&p=home_desk>
 
 #### Milestones Fase 2
