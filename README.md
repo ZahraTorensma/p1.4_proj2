@@ -17,7 +17,7 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
 | b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | Markdown |
 | b1-k1-w2 Urenschatting         | DONE | [Urenschatting.md]| Markdown |
 | b1-k1-w2 Planning              | DONE | [Planning.md]     | Markdown |
-| b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
+| b1-k1-w2 Plan van aanpak       | TODO | [PvA.pdf]         | PDF |
 | b1-k1-w2 Sfeer impressie       | DONE | [Moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
 | b1-k1-w2 FLowChart             | DONE | [Flow]                  | SVG exported by Draw.io |
@@ -26,7 +26,7 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
    [readme.md]: <https://github.com/ZahraTorensma/p1.4_proj2/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://#>
    [Debriefing]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/schriftelijkadvies.pdf>
-   [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
+   [PvA.pdf]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/planvanaanpak.pdf>
    [Urenschatting.md]: <https://github.com/ZahraTorensma/p1.4_proj2/blob/master/Urenschatting.md>
    [Planning.md]: <https://github.com/ZahraTorensma/p1.4_proj2/blob/master/Planning.md>
    [Moodboard]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/moodboard/MoodboardZAHRA_TORENSMA.png>
