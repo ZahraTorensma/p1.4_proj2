@@ -17,7 +17,7 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
 | b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | Markdown |
 | b1-k1-w2 Urenschatting         | DONE | [Urenschatting.md]| Markdown |
 | b1-k1-w2 Planning              | DONE | [Planning.md]     | Markdown |
-| b1-k1-w2 Plan van aanpak       | TODO | [PvA.pdf]         | PDF |
+| b1-k1-w2 Plan van aanpak       | DONE | [PvA.pdf]         | PDF |
 | b1-k1-w2 Sfeer impressie       | DONE | [Moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
 | b1-k1-w2 FLowChart             | DONE | [Flow]                  | SVG exported by Draw.io |
