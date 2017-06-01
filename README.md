@@ -1,6 +1,6 @@
 # p1.4_proj2
 
-## Yes Ve Gan!
+## MyBand
 www.23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj is een website van ___Zahra Torensma___ waar gebruikers __informatie__ over veganisme en ook veganistische recepten kunnen vinden. Deze site is bedoeld voor mensen die meer __nieuwsgierig__ zijn naar veganisme, er meer over willen weten of zelfs wel eens een __veganistisch recept__ willen maken.
 De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org maar toch __anders__ omdat ik mijn eigen __slimme draai__ er aan geef.
 
