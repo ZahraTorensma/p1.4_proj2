@@ -26,10 +26,10 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
    [readme.md]: <https://github.com/ZahraTorensma/p1.4_proj2/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://#>
    [Debriefing]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/schriftelijkadvies.pdf>
-   [PvA.pdf]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/planvanaanpak.pdf>
+   [PvA.pdf]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/planvanaanpaak.pdf>
    [Urenschatting.md]: <https://github.com/ZahraTorensma/p1.4_proj2/blob/master/Urenschatting.md>
    [Planning.md]: <https://github.com/ZahraTorensma/p1.4_proj2/blob/master/Planning.md>
-   [Moodboard]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/moodboard/MoodboardZAHRA_TORENSMA.png>
+   [Moodboard]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/moodboard/MoodboardZAHRA_TORENSMa.png>
    [FO]: <https://#>
    [Flow]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/flowChart.png>
    [axShare]: <http://u6duzw.axshare.com/#g=1&p=home_desk>
