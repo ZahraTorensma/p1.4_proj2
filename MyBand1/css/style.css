@@ -1,0 +1,362 @@
+html, body{
+    margin: 1px;
+    height: 100%;
+    min-height: 100%;
+    font-family: 'Roboto Slab', serif;
+    /*position: relative;*/
+}
+
+/*KLEUREN:*/
+/*rgba(218, 203, 103, 1); gelig*/
+/*rgba(198, 128, 29, 1); bruinig*/
+/*rgba(190, 212, 105, 1); groenig*/
+
+
+/*WRAPPER, DUS ALLES WAT ER OP DE PAGINA KOMT*/
+.wrapper{
+    min-height: 100%;
+    height: 100%;
+    margin-bottom: -50px;
+}
+/*EINDE WRAPPER*/
+
+/*LOGO*/
+.header{
+    background-color: rgba(198, 128, 29, 1);
+    height: 4.5em;
+    margin-bottom: 10px;
+    border-radius: 10%;
+}
+
+.logo img{
+    width: 220px;
+    height: auto;
+    margin-left: 3px;
+}
+/*EINDE LOGO*/
+
+/*MENU */
+.menuDESK {
+    margin-top: -3.8em;
+    margin-right: 55px;
+    overflow: hidden;
+    background-color: rgba(198, 128, 29, 1);
+    float: right;
+}
+
+.menuDESK a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-radius: 40%;
+font-weight: bold;
+}
+
+.menuDESK a:hover {
+    background-color: rgba(190, 212, 105, 0.6);
+    color: #000000;
+    /*#e68a00*/
+}
+/*EINDE MENU*/
+
+/*HOME SLIDER*/
+.mySlides {display:none}
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 900px;
+    position: relative;
+    margin: auto;
+}
+
+/* Caption text */
+.text a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+.text  a:hover{
+    font-size: 20px;
+    text-shadow: 1px 1px #e68a00;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+    height: 13px;
+    width: 13px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.9s ease;
+}
+
+.active {
+    background-color: rgba(190, 212, 105, 1);
+}
+
+/* Fading animation */
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 3.0s;
+    animation-name: fade;
+    animation-duration: 3.0s;
+}
+
+@-webkit-keyframes fade {
+    from {opacity: .3}
+    to {opacity: 1}
+}
+
+@keyframes fade {
+    from {opacity: .3}
+    to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 450px) {
+    .text a{font-size: 10px;}
+    .text a:hover{font-size: 13px; text-shadow: 1px 1px #e68a00;
+    }
+}
+/*EINDE HOME SLIDER*/
+
+/*HOME*/
+.homeRuimte{
+    height: 10px;
+}
+
+#veganisme{
+    margin: 30px auto;
+    padding: 10px;
+    border-color: black;
+    border-style: outset;
+    width: 60%;
+    max-width: 700px;
+    min-width: 350px;
+}
+/*EINDE HOME*/
+/*BLOG*/
+.blog{
+    margin: 0 auto;
+    width: 80%;
+    max-width: 500px;
+    min-width: 100px;
+    min-height: 400px;
+    background-color: #eeeeee;
+}
+.blogRuimte{
+    height: 30px;
+    background-color: white;
+}
+.blog img{
+    width: 100%;
+}
+/*EINDE BLOG*/
+
+
+/*ABOUT*/
+.aboutPage{
+    display: flex;
+    margin: 3em;
+}
+#aboutLinks{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 550px;
+    /*float: left;*/
+}
+#aboutRechts img{
+    width: 300px;
+    height: auto;
+}
+#aboutRechts{
+    text-align: right;
+    min-width: 300px;
+    width: 47%;
+    float: right;
+    margin-left: 30px;
+}
+
+.helloVegan{
+    margin-left: 35%;
+    margin-bottom: -60px;
+    text-align: left;
+    width: 30%;
+    min-width: 120px;
+    max-width: 280px;
+    height: auto;
+}
+/*EINDE ABOUT*/
+
+
+/*AGENDA*/
+.agenda{
+    margin: 0 auto;
+    width: 80%;
+    max-width: 700px;
+    min-width: 100px;
+    min-height: 400px;
+    background-color: rgba(218, 203, 103, 0.3);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.blokjeData{
+    width: 90%;
+    height: 130px;
+    background-color: rgba(190, 212, 105, 0.7);
+    margin: 5px auto;
+    padding: 5px;
+}
+
+.agendaData{
+    float: right;
+}
+.agendaTekst{
+    font-size: 11px;
+}
+
+.agendaLink a{
+    float: right;
+    font-size: 12px;
+    color: black;
+    font-weight: bold;
+    text-decoration-style: double;
+}
+.agendaLink a:hover{
+    color: rgba(198, 128, 29, 1);
+}
+/*EINDE AGENDA*/
+
+/*ZOEKEN*/
+.search input{
+    font-size: 20px;
+    width: 100%;
+    max-width: 600px;
+    border-color: rgba(198, 128, 29, 1);
+    color: #333;
+}
+.search #button{
+    font-size: 20px;
+    background-color: rgba(218, 203, 103, 0.5);
+}
+.search #button:hover{
+    background-color: rgba(218, 203, 103, 1);
+}
+.search table{
+    margin: 0 auto;
+}
+.searchRuimte{
+    max-height: 100%;
+    height: 65%;
+}
+/*EINDE ZOEKEN*/
+
+
+/*FOOTER*/
+
+#footerBalk{
+    margin: -3px;
+    height: auto;
+    width: 100%;
+    background-color: rgba(198, 128, 29, 1);
+    font-weight: bold;
+}
+
+#disc a{
+    margin: 0 20px;
+    text-decoration: none;
+    color: black;
+}
+#disc a:hover{
+    color: rgba(218, 203, 103, 1);
+}
+#sitem a{
+    text-decoration: none;
+    color: black;
+}
+#sitem a:hover{
+    color: rgba(218, 203, 103, 1);
+}
+#zahra{
+    float: right;
+}
+
+/*EINDE FOOTER*/
+
+/*SITEMAP*/
+
+#sitemap tr td{
+    padding: 20px;
+}
+#sitemap a{
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
+#sitemap a:hover{
+    color: rgba(218, 203, 103, 1);
+}
+
+/*EINDE SITEMAP*/
+
+
+/*KLEIN SCHERM MENU*/
+@media screen and (max-width: 650px) {
+
+    .menuDESK {
+        width: 120px;
+        margin-right: 50px;
+        display: block;
+        background: rgba(218, 203, 103, 0.6);
+        font-size: 1.35em;
+        text-align: center;
+        color: #000;
+        border-radius: 10%;
+    }
+    .menuDESK a{
+        border-radius: 0;
+    }
+
+    #nav.js {
+        display: none;
+    }
+
+    .homeRuimte{
+        height: 100px;
+    }
+
+    #aboutLinks{
+        /*max-width: 600px;*/
+        float: left;
+        width: 100%;
+    }
+
+    #aboutRechts{
+        /*text-align: left;*/
+        /*min-width: 300px;*/
+        /*width: 47%;*/
+        /*float: left;*/
+        /*background-color: red;*/
+        display: none;
+    }
+
+}

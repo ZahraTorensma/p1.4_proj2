@@ -1,0 +1,87 @@
+#kc-350 {
+    /*!*top: 1252px;*!*/
+    /*left: 30px;*/
+    /*width: 310px;  !* height specified locally *!*/
+    /*padding: 0 20px 0 20px;*/
+    /*color: #856c80;*/
+    background-color: #f5f6e5;
+}
+
+#kc-350 img {
+    margin: 24px 0 0 16px;
+}
+
+#kc-350 p {
+    color: #856c80;
+    background-color: inherit;
+}
+
+#count0, #count1,  #count2, #count3,  #count4, #count5,  #count6, #count7,  #count8, #count9,  #count10, #count11,  #count12, #count13,  #count14, #count15,  #count16, #count17 {
+    display: inline;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.25em;
+    color: #cf2024;
+    background-color: inherit;
+}
+
+#kc-350 p#adv {
+    font-size: 13px;
+    font-weight: normal;
+    color: #554754;
+    background-color: inherit;
+    line-height: 1.2em;
+    /*text-align: justify;*/
+    margin: 0 0 15px 0;
+}
+
+#kc-350 a {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #3e8340;
+    background-color: transparent;
+    margin: 0 0 0 99px;
+    border: 0;
+}
+
+#kc-350 a:hover {
+    color: #d73f3f;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#killcounter-l{
+    padding: 5px;
+    /*background-color: blue;*/
+    width: 48%;
+    min-width: 225px;
+    float: left;
+}
+#killcounter-r{
+    padding: 5px;
+    /*background-color: yellow;*/
+    width: 48%;
+    min-width: 225px;
+    float: right;
+}
+
+@media screen and (max-width: 510px) {
+
+    #killcounter-l{
+        padding-left: 30%;
+        width: 100%;
+    }
+    #killcounter-r{
+        margin-top: -20px;
+        padding-left: 30%;
+        float: left;
+        /*background-color: purple;*/
+        width: 100%;
+    }
+
+    #adv{
+        float: left;
+        overflow: hidden;
+    }
+}

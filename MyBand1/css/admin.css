@@ -1,0 +1,21 @@
+.adminBlog, .adminAbout, .adminAgenda{
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 80%;
+    max-width: 700px;
+    min-width: 100px;
+    min-height: 400px;
+    background-color: #eeeeee;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h4{
+    margin-top: -10px;
+}
+
+.adminBlog textarea{
+    margin: 0 auto;
+    width: 90%;
+    min-height: 100px;
+}
